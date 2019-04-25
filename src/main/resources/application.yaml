@@ -9,8 +9,8 @@ spring:
      physical-strategy: "org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl"
     show-sql: true
   datasource:
-    username: "opet"
+    username: "opet2"
     password: "root"
-    url: "jdbc:mysql://35.202.190.91:3306/opet?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true"
+    url: "jdbc:mysql://35.199.111.162:3306/opet2?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true"
 server:
   port: 8889
